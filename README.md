@@ -32,4 +32,4 @@
 
 
 ![高科圖片](nkust.png)
-[![高科影片]]()
+[![高科影片]](https://www.youtube.com/watch?v=zQMCFZtVUTc)
