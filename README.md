@@ -31,5 +31,6 @@
 |7|8|9|
 
 
-![高科圖片](nkust.png)
+![高科圖片](nkust.jpg)
+
 [![高科影片]](https://www.youtube.com/watch?v=zQMCFZtVUTc)
